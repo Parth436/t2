@@ -1,3 +1,4 @@
 This is app.txt
 Created in branch1 by User B
-new changes made
+VISIBLE CHANGE MADE BY USER B ON branch1
+
