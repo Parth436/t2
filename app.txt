@@ -1,0 +1,2 @@
+This is app.txt
+Created in branch1 by User B
